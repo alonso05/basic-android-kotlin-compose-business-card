@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name">Alonso Castellon</string>
+    <string name="title">SDET/Android Developer</string>
+    <string name="phone">+52(811)0121538</string>
+    <string name="social">@AndroidDev</string>
+    <string name="email">alonso05@gmail.com</string>
+</resources>
